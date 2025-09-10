@@ -16,10 +16,10 @@
     "FACEBOOK_ADMIN": "",
     "PREFIX": "",
     "ADMINBOT": [
-        ""
+        "100001694834232"
     ],
     "NDH": [
-        ""
+        "100001694834232"
     ],
     "DATABASE": {
         "sqlite": {
@@ -41,7 +41,7 @@
     },
     "daily": {
         "cooldownTime": 540000,
-        "rewardCoin": 500
+        "rewardCoin": 500000000
     },
     "math": {
         "WOLFRAM": "T8J8YV-H265UQ762K"
